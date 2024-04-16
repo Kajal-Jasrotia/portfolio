@@ -480,14 +480,14 @@ input:checked + label .description{
     transform: translateY(0) !important;
 }
 .card[for="c1"] {
-background-image: url('/images/jk.jpg');
+background-image: url('/portfolio/images/jk.jpg');
 background-repeat: no-repeat;
 background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
     /* or specify specific dimensions */
     outline: 2px solid black; 
 }
 .card[for="c2"] {
-    background-image: url('/images/pot.jpg');
+    background-image: url('/portfolio/images/pot.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -495,7 +495,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
         outline: 2px solid black;  
     }
     .card[for="c3"] {
-        background-image: url('/images/jm.jpg');
+        background-image: url('/portfolio/images/jm.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -504,7 +504,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
         }
     
         .card[for="c4"] {
-            background-image: url('/images/jn.jpg');
+            background-image: url('/portfolio/images/jn.jpg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -512,7 +512,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                 outline: 2px solid black;    
             }
             .card[for="c5"] {
-                background-image: url('/images/kali.jpg');
+                background-image: url('/portfolio/images/kali.jpg');
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -520,7 +520,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                     outline: 2px solid black; 
                 }
                 .card[for="c6"] {
-                    background-image: url('/images/pot-2.jpg');
+                    background-image: url('/portfolio/images/pot-2.jpg');
                     background-repeat: no-repeat;
                     background-position: center;
                     background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -529,13 +529,13 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                     }
                     .card[for="c7"] {
                         background-repeat: no-repeat;
-                        background-image: url('/images/peacock.jpg');
+                        background-image: url('/portfolio/images/peacock.jpg');
                         background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
                             /* or specify specific dimensions */
                             outline: 2px solid black; 
                         }
                         .card[for="c8"] {
-                            background-image: url('/images/fish.jpg');
+                            background-image: url('/portfolio/images/fish.jpg');
                             background-repeat: no-repeat;
                             background-position: center;
                             background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -543,7 +543,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                                 outline: 2px solid black;   
                             }
                             .card[for="c9"] {
-                                background-image: url('/images/lips.jpg');
+                                background-image: url('/portfolio/images/lips.jpg');
                                 background-repeat: no-repeat;
                                 background-position: center;
                                 background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -551,7 +551,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                                     outline: 2px solid black;  
                                 }
                                 .card[for="c10"] {
-                                    background-image: url('/images/jug.jpg');
+                                    background-image: url('/portfolio/images/jug.jpg');
                                     background-repeat: no-repeat;
                                     background-position: center;
                                     background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
@@ -561,7 +561,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                                         .card[for="c11"] {
                                             background-repeat: no-repeat;
                                             background-position: center;
-                                            background-image: url('/images/jar.jpg');
+                                            background-image: url('/portfolio/images/jar.jpg');
                                             background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
                                             outline: 2px solid black; 
                                         }
@@ -708,21 +708,21 @@ input:checked + label .description{
     transform: translateY(0) !important;
 }
 .car[for="c1"] {
-background-image: url('/images/roseII.2.png');
+background-image: url('/portfolio/images/roseII.2.png');
 background-size:auto 100%;
     background-position: center;
     outline: 2px solid black; 
     background-repeat: no-repeat;
 }
 .car[for="c2"] {
-    background-image: url('/images/marigold.png');
+    background-image: url('/portfolio/images/marigold.png');
     background-size:auto 100%; 
     background-repeat: no-repeat; 
     background-position: center;
         outline: 2px solid black;  
     }
     .car[for="c3"] {
-        background-image: url('/images/paper-cut.png');
+        background-image: url('/portfolio/images/paper-cut.png');
         background-size: 500px; 
         background-repeat: no-repeat;
             background-position: center;
@@ -730,7 +730,7 @@ background-size:auto 100%;
         }
     
         .car[for="c4"] {
-            background-image: url('/images/3DArt.png');
+            background-image: url('/portfolio/images/3DArt.png');
             background-size:auto 100%;
             background-position: center;
                 
@@ -738,25 +738,25 @@ background-size:auto 100%;
                 outline: 2px solid black;    
             }
             .car[for="c5"] {
-                background-image: url('/images/my-logo.png');
+                background-image: url('/portfolio/images/my-logo.png');
                 background-size: auto 100%;
                     background-position: center;
                     outline: 2px solid black; 
                 }
                 .car[for="c6"] {
-                    background-image: url('/images/kajl.png');
+                    background-image: url('/portfolio/images/kajl.png');
                     background-size: auto 100%;
                         background-position: center;
                         outline: 2px solid black; 
                     }
                     .car[for="c7"] {
-                        background-image: url('/images/shadow.png');
+                        background-image: url('/portfolio/images/shadow.png');
                         background-size: auto 100%;
                         background-position: center;
                             outline: 2px solid black; 
                         }
                         .car[for="c8"] {
-                            background-image: url('/images/kajal-vector.png');
+                            background-image: url('/portfolio/images/kajal-vector.png');
                             background-size: 450px; 
                             background-repeat: no-repeat;
                             background-position: center;

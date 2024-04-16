@@ -515,8 +515,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
                 background-image: url('/portfolio/images/kali.jpg');
                 background-repeat: no-repeat;
                 background-position: center;
-                background-size: auto 100%; /* Adjust size to fit the container height, maintain aspect ratio */
-                    /* or specify specific dimensions */
+                background-size: auto 100%; 
                     outline: 2px solid black; 
                 }
                 .card[for="c6"] {
@@ -639,7 +638,7 @@ background-size: auto 100%; /* Adjust size to fit the container height, maintain
     justify-content: center;
     
 }
-.tanned{
+.tanned {
     height: 550px;
     width:65%;
     display:flex;
